@@ -2748,3 +2748,29 @@ section.study .container .idea .slick-arrow {
     bottom: 209px;
   }
 }
+
+@media (max-width: 360px) {
+	.team .team-people .people2{
+		left: 60px;
+		bottom: 215px;
+	}
+
+	.team .team-people .people3 {
+		left: 120px;
+		bottom: 228px;
+	}
+
+	.team .team-people .people4 {
+		left: 190px;
+		bottom: 223px;
+	}
+
+	.team .team-people .people5 {
+		left: 250px;
+		bottom: 219px;
+	}
+
+	.team .team-people .people1 {
+		bottom: 210px
+	}
+}
