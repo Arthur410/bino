@@ -23,6 +23,7 @@ nav, footer, header, aside {
 }
 
 html, body {
+  background:#fff;
   overflow-x: hidden;
   font-family: "Open Sans", sans-serif;
   max-height: 100%;
